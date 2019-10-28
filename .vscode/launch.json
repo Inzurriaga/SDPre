@@ -1,0 +1,18 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Objective1Lab2",
+      "request": "launch",
+      "mainClass": "Objective1Lab2",
+      "projectName": "SDPre_1ca5ade0"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Objective1Lab1",
+      "request": "launch",
+      "mainClass": "Objective1Lab1",
+      "projectName": "SDPre_1ca5ade0"
+    }
+  ]
+}
